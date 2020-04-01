@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1585716711,
-      "filename": "lineage-16.0-20200331-UNOFFICIAL-dogelabshokyu-ef63.zip",
-      "id": "8dd578902777ea6f14497ec07d9334f6",
+      "filename": "lineage-16.0-20200401-UNOFFICIAL-dogelabshokyu-ef63.zip",
+      "id": "83c91786d0d28de84d754bf48c5c8f31",
       "romtype": "nightly",
-      "size": 423316964,
-      "url": "https://imholic.com:8081/fbsharing/iBfONBdb",
+      "size": 423324826,
+      "url": "https://imholic.com:8081/fbsharing/o9UlTos3",
       "version": "16.0"
     }
   ]
